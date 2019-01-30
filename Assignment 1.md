@@ -48,5 +48,34 @@ Play information is an essential component of hockey where information about pla
 * Shots taken (S)
 * Shooting percentage (S%)
 
+### Methods in the player class
+
+### Constructors
+`public Roster()`
+
+`public Recreation()`
+
+`public Copy()`
+
+### Mutator /setter methods
+
+* `public void setName(String name)` -  .  
+* `public void setDob(String dob)` -  .  
+* `public void setHometown(String city)` -  .  
+* `public void setWeight(String weight)` -  .  
+* `public void setHeight(String height)` -  .  
+* `public void setJerseyNum(String num)` -  .  
+* `public void setPos(String pos)` -  .  
+
+### Accessor / getter methods
+
+* `public String getName()` - returns the value of the instance variable "name".  
+* `public String getDob()` - returns the value of the instance variable .  
+* `public String getHometown()` -  .  
+* `public String getWeight()` -  .  
+* `public String getHeight()` -  .  
+* `public String getJerseyNum()` -  .  
+* `public String getPos()` -  .  
+
 
 
